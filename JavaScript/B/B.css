@@ -1,0 +1,10 @@
+.main {
+    text-align: center;
+    margin: 10px auto;
+    width: 50%;
+}
+
+.data {
+    display: flex;
+    justify-content: space-between;
+}
